@@ -27,5 +27,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
         ftp-server: [Server name]
-		ftp-username: [Username]
-		ftp-password: [Password]
+	ftp-username: [Username]
+	ftp-password: [Password]
